@@ -1,0 +1,14 @@
+{
+    "modules": [
+        "os",
+        "subprocess",
+        "sys",
+        "time",
+        "nmap",
+        "requests",
+        "re",
+        "ipaddress",
+        "string",
+        "random"
+    ]
+}
