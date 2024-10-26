@@ -25,6 +25,7 @@ To install and run the Skyzz Tool, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd Skyzz-Tool
+   cd Skyzz-Tool
    ```
 3. Run the tool:
    ```bash
